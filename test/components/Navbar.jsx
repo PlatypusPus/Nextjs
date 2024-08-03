@@ -7,13 +7,13 @@ const navbar = () => {
         <div>LSJEC</div>
         <div>
           <ul className='hidden sm:flex'>
-              <li className='ml-10 uppercase hover:border-b text-xl'>
+              <li className='ml-4 uppercase hover:border-b text-xl'>
                 About
               </li>            
-              <li className='ml-10 uppercase hover:border-b text-xl'>
+              <li className='ml-4 uppercase hover:border-b text-xl'>
                 Cart
               </li>            
-              <li className='ml-10 uppercase hover:border-b text-xl'>
+              <li className='ml-4 uppercase hover:border-b text-xl'>
                 Login
               </li>            
           </ul>
