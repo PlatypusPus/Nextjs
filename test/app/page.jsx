@@ -1,11 +1,9 @@
 import React from 'react';
 import Button from '@/components/Button';
-import Navbar from '@/components/Navbar';
 
 const Page = () => {
   return (
     <>
-      <Navbar />
       <div className="pt-24 max-w-lg mx-auto">
         <div className="border border-black p-4 rounded-lg font-extrabold bg-red-100 text-xl text-center mb-6 shadow-lg">
           Shovin Jeson Dsouza
